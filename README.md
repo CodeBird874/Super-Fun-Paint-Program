@@ -24,7 +24,7 @@ When pressing K, the button will loop back to red again after reaching grey.
 The eraser stroke is the same as the brush stroke, when the eraser is off (press E when the eraser is on.) red will be the first color you will get.
 
 The canvas is 2000x2000 pixels. 
-
+<ins>this page IS NOT suited for mobile devices</ins>
 
 
 
