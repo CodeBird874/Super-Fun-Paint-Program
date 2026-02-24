@@ -117,7 +117,7 @@ document.addEventListener('keydown', function(event) {
       keyBuffer++;
       if (!isErasing) {
         isErasing = true;
-        currentColor = 11;
+        currentColor = colors.length - 1;
         eraserOn();
 
       } else if (isErasing && keyBuffer >= 2) {
