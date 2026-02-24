@@ -1,4 +1,4 @@
-let colors = ["red", "orange", "yellow", "green", "blue", "cyan", "purple", "coral", "chocolate", "black", "gray", "white"];
+let colors = ["red", "orange", "yellow", "green", "blue", "cyan", "purple", "pink", "coral", "chocolate", "black", "gray", "white"];
 let strokeStatus = ["Current Pen Size: Normal", "Current Pen Size: Large", "Current Pen Size: Huge.", "Current Pen Size: Tiny."]
 let strokeSizes = [5, 10, 15, 1];
 let currentColor = 0;
