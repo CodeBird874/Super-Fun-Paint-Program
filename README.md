@@ -18,7 +18,7 @@ The status line will show you how big your brush stroke is, what color you are u
 
 
 # OTHER INFO:
-The colors available to you are: red, orange yellow, green, blue teal, purple, coral, chocolate, black, and grey.
+The colors available to you are: red, orange yellow, green, blue teal, purple, pink, coral, chocolate, black, and grey.
 When pressing K, the button will loop back to red again after reaching grey. 
 
 The eraser stroke is the same as the brush stroke, when the eraser is off (press E when the eraser is on.) red will be the first color you will get.
